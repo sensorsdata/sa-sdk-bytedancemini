@@ -1,4 +1,4 @@
-[![神策数据](https://github.com/sensorsdata/sa-sdk-android/raw/master/docs/logo.png "神策数据")](https://www.sensorsdata.cn/)
+[![神策数据](https://opensource.sensorsdata.cn/wp-content/uploads/logo.png "神策数据")](https://www.sensorsdata.cn/)
 <br><br>
 
 [![License](https://img.shields.io/github/license/sensorsdata/sa-sdk-bytedancemini.svg)](https://github.com/sensorsdata/sa-sdk-bytedancemini/blob/master/LICENSE)
