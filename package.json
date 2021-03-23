@@ -1,6 +1,6 @@
 {
   "name": "sa-sdk-bytedancemini",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "description": "神策字节跳动小程序SDK",
   "main": "sensorsdata.min.js",
   "scripts": {
